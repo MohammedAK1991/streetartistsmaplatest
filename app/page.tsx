@@ -1,4 +1,4 @@
-import Map from './ui/components/Map';
+import Map from '../components/ui/map/map';
 
 interface Performance {
   id: string;
